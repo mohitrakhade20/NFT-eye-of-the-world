@@ -1,4 +1,4 @@
-# Welcome to EYE Of The World 💎
+# Welcome to EYE Of The World 
 
 To find out more about me please visit:
 
@@ -8,7 +8,10 @@ To find out more about me please visit:
 
 [ℹ️ linkedin](https://www.linkedin.com/in/mohit-rakhade)
 
-# The Stripes NFT minting dapp 🔥
+# The EYE NFT minting dapp 
+
+![alt text](https://github.com/mohitrakhade20/NFT-eye-of-the-world/blob/master/eye.jpeg?raw=true)
+
 
 This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.
 
