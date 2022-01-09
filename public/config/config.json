@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xE4be5FfFB4C68a60bd0F720cd8532Ff534528CEA",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xe4be5fffb4c68a60bd0f720cd8532ff534528cea#events",
+  "NETWORK": {
+    "NAME": "Polygon testnet",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Eye of the World",
+  "SYMBOL": "EYE",
+  "MAX_SUPPLY": 69,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/eye-of-the-world",
+  "SHOW_BACKGROUND": true
+}
